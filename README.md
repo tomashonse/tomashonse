@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi! My name is Tomás Honse.
 
-<!--
-**tomashonse/tomashonse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm from Argentina 🇦🇷
 
-Here are some ideas to get you started:
+I'm currently studying Electronic Engineering and I'm a member of the "Roberto Rocca" program at Techint.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested on embebbed system programming.
+
+I always want to talk about Naruto 🦊 and Harry Potter ⚡🧙
+
+I love reading books 📚❤️
+
+You can find me on Instagram as @honsessj or in Twitter as @TomasHonse13, and also you can contact me by e-mail (tomasmhonse@gmail.com).
+
